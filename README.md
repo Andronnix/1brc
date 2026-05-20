@@ -538,7 +538,7 @@ A list of external resources such as blog posts and videos, discussing 1BRC and 
 ## License
 
 This code base is available under the Apache License, version 2.
-asasdfasdf
+
 ## Code of Conduct
 
 Be excellent to each other!
