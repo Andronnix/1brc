@@ -6,3 +6,5 @@ jobs:
     name: Job 2
   Job3:
     name: Job 3
+  Job4:
+    name: Job 4
